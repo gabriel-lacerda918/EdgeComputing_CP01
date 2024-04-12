@@ -39,16 +39,17 @@ void loop() {
     digitalWrite(greenLedPin, LOW);
     digitalWrite(yellowLedPin, HIGH);
     digitalWrite(redLedPin, LOW);
-    tone(buzzerPin, 261); // Frequência do buzzer
-    delay(3000);// Duração de 3 segundos 
+    tone(buzzerPin, 1000); // Frequência do buzzer
+    delay(1000);// Duração de 3 segundos 
     noTone(buzzerPin); // Parada/intervalo do acionamento do buzzer
+    delay(3000);// Duração de 3 segundos 
     
   } else {
     digitalWrite(greenLedPin, LOW);
     digitalWrite(yellowLedPin, LOW);
     digitalWrite(redLedPin, HIGH);
-    tone(buzzerPin, 500); // Frequência do buzzer 
-    delay(3000);// Intervalos de 3 segundos
+    tone(buzzerPin, 291); // Frequência do buzzer 
+    delay(250);// Intervalos de 3 segundos
     noTone(buzzerPin); // Parada/intervalo do acionamento do buzzer
   }
 
