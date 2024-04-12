@@ -18,9 +18,7 @@ Para reproduzir este projeto, você precisará dos seguintes componentes:
 
 ## Como Reproduzir
 
-1. Monte os componentes conforme o esquema de conexões abaixo:
-
-![Circuito_projeto](https://github.com/gabriel-lacerda918/EdgeComputing_CP01/asset/img/Circuito_projeto.png)
+1. Monte os componentes conforme o esquema de conexões indicado no arquivo "Circuito_projeto".
 
 2. Faça o upload do código fornecido (BrightnessLevelAlertSystem.cpp) para a placa Arduino. *Se necessário altere a extensão
 para ".ino".
