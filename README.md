@@ -20,7 +20,7 @@ Para reproduzir este projeto, você precisará dos seguintes componentes:
 
 1. Monte os componentes conforme o esquema de conexões abaixo:
 
-![Circuito_projeto](https://github.com/gabriel-lacerda918/EdgeComputing_CP01/assets/161903643/7cd34064-6fc8-42e2-9c23-7c59f137e1f0)
+![Circuito_projeto](https://github.com/gabriel-lacerda918/EdgeComputing_CP01/assets/161903643/7bc68335-57a5-4dfa-9475-e74f552f5f4f)
 
 2. Faça o upload do código fornecido (BrightnessLevelAlertSystem.cpp) para a placa Arduino. *Se necessário altere a extensão
 para ".ino".
@@ -39,10 +39,10 @@ sistema de monitoramento.
 
 ## Autor
 
-Este projeto foi desenvolvido por 
-[Gabriel Machado Lacerda                RM:556714   TURMA:1ESPW]
-[João Pedro Signor Avelar               RM:558375]
-[Roger Cardoso Ferreira                 RM:557230]
-[Vinicius Augusto Siqueira Gonçalves    RM:557065]
+Este projeto foi desenvolvido por:
+Gabriel Machado Lacerda                RM:556714   TURMA:1ESPW
+João Pedro Signor Avelar               RM:558375
+Roger Cardoso Ferreira                 RM:557230
+Vinicius Augusto Siqueira Gonçalves    RM:557065
 
 ```
